@@ -73,15 +73,8 @@ I'm Md. Shamim Hossain a Android Developer and Content Creator on [Youtube](http
 - :paperclip: [My Resume/CV](https://github.com/shamimcse1/shamimcse1/blob/master/resumes/resume%20v1.0.pdf)
 - :email: shamimcse0011@gmail.com
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=shamimcse1&count_private=true&theme=tokyonight&hide=contribs,prs)
+src="https://github-readme-stats.vercel.app/api?username=shamimcse1&theme=default"
 
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left"/></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=shamimcse1&theme=default" /></td>
-  </tr>   
-</table>
-</center>
 
 
 #### Profile Visits 
