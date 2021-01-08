@@ -4,7 +4,14 @@ I'm Md. Shamim Hossain a Android Developer and Content Creator on [Youtube](http
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@shamimcse-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/md_shamimcse)](https://twitter.com/md_shamimcse) [![Mail Badge](https://img.shields.io/badge/-CoderCamp-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/CoderCamp) [![Linkedin Badge](https://img.shields.io/badge/-shamim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/md-shamim-hossain-0b4a75174/) [![Mail Badge](https://img.shields.io/badge/-@shamimmcse1-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/shamimcse0011/) [![Mail Badge](https://img.shields.io/badge/-shamim-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mdshamimh529@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@shamimcse-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/md_shamimcse)](https://twitter.com/md_shamimcse)
+[![Mail Badge](https://img.shields.io/badge/-CoderCamp-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/CoderCamp)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Shamim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shamim-hossain-0b4a75174/)
+
+[![Mail Badge](https://img.shields.io/badge/-@shamimmcse1-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/shamimcse0011/)
+
+[![Mail Badge](https://img.shields.io/badge/-shamim-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mdshamimh529@gmail.com)
 
 <!-- TODO: Add last video link -->
 
@@ -20,10 +27,13 @@ I'm Md. Shamim Hossain a Android Developer and Content Creator on [Youtube](http
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
+
 
 
 ## Languages... :mortar_board:
