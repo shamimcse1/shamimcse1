@@ -74,11 +74,9 @@ I'm Md. Shamim Hossain a Android Developer and Content Creator on [Youtube](http
 - :email: shamimcse0011@gmail.com
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=shamimcse1&count_private=true&theme=tokyonight&hide=contribs,prs)
-
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="(https://github-readme-stats.vercel.app/api?username=shamimcse1&count_private=true&theme=tokyonight&hide=contribs,prs" /></td>
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=mhrshuvo&theme=default" /></td>
   </tr>   
 </table>
