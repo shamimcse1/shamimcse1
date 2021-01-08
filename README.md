@@ -4,7 +4,7 @@ I'm Md. Shamim Hossain a Android Developer and Content Creator on [Youtube](http
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/md_shamimcse) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@md_shamimcse-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/md_shamimcse)](https://twitter.com/md_shamimcse) [![Mail Badge](https://img.shields.io/badge/-CoderCamp-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/CoderCamp) [![Linkedin Badge](https://img.shields.io/badge/-Shamim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/md-shamim-hossain-0b4a75174/) [![Mail Badge](https://img.shields.io/badge/-@shamimmcse1-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/shamimcse0011/) [![Mail Badge](https://img.shields.io/badge/-shamim-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mdshamimh529@gmail.com)
 
 <!-- TODO: Add last video link -->
 
@@ -76,11 +76,11 @@ CoderCamp is a youtube channel for learning Web/Mobile development, coding and d
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Java         15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
+CSS          1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+HTML         1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+C            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+C++          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
 
