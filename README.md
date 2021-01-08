@@ -77,7 +77,8 @@ I'm Md. Shamim Hossain a Android Developer and Content Creator on [Youtube](http
 <center>
 <table>
   <tr>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=mhrshuvo&theme=default" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamimcse1&hide=html&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=shamimcse1&theme=default" /></td>
   </tr>   
 </table>
 </center>
