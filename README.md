@@ -54,7 +54,7 @@ I'm Md. Shamim Hossain a Android Developer and Content Creator on [Youtube](http
 
 #### For Business
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/14-c2lY-Ge_NuNOvlHvCxv_CldzeTZjUO/view?usp=sharing)
-- :email: shamimcse0011@gmail.com
+- :email: mdshamimh529@gmail.com
 
 
 <center>
