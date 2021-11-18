@@ -65,8 +65,8 @@ I'm Md. Shamim Hossain a Android Developer and Content Creator on [Youtube](http
   </tr>   
 </table>
 </center
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimcse1" alt="shamimcse1" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shamimcse1&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /></p>
 
 ## Profile Visits 
 
@@ -85,7 +85,7 @@ I'm Md. Shamim Hossain a Android Developer and Content Creator on [Youtube](http
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Coder Camp Youtube Channel exists!
 
-#### What is CoderCamp?
+#### What is Coder Camp?
 
 Coder Camp is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
@@ -101,9 +101,9 @@ C++          2 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-#### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=shamimcse1&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+
 
 </details>
 
