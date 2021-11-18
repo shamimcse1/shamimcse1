@@ -47,15 +47,16 @@ I'm Md. Shamim Hossain a Android Developer and Content Creator on [Youtube](http
 <img src= "https://img.shields.io/static/v1?label=SCSS&message=%20&color=success">
 <img src= "https://img.shields.io/static/v1?label=XML&message=%20&color=success">
 </div>
-
-
 <br />
-<br />
+
 
 #### For Business
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1mrCez3GhIoh2SR8tVGKrolVHQ1A9zwU_/view?usp=sharing)
 - :email: mdshamimh529@gmail.com
 
+## Profile Visits 
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=shamimcse1.shamimcse1)
 
 <center>
 <table>
@@ -66,13 +67,7 @@ I'm Md. Shamim Hossain a Android Developer and Content Creator on [Youtube](http
 </table>
 </center
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shamimcse1&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /></p>
-
-## Profile Visits 
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=shamimcse1.shamimcse1)
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shamimcse1&date_format=M%20j%5B%2C%20Y%5D" /></p>
 
 
 
