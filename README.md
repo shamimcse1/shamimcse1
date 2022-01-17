@@ -8,7 +8,7 @@ I'm Md. Shamim Hossain a Android Developer and Content Creator on [Youtube](http
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on **React Native** (Professional Courses Platform).
+- 🔭 I’m currently working on **Android Apps Development** (Native Platform).
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: mdshamimh529@gmail.com.
