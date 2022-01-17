@@ -13,7 +13,7 @@ I'm Md. Shamim Hossain a Android Developer and Content Creator on [Youtube](http
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: mdshamimh529@gmail.com.
 - 😄 Pronouns: CoderCamp, shamim.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I play games and Music.
 
 #### Top Technologies
 
