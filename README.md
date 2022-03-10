@@ -57,6 +57,7 @@ I'm Md. Shamim Hossain a Android Developer and Content Creator on [Youtube](http
 ## Profile Visits 
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shamimcse1.shamimcse1)
+![Visits Badge](https://badges.pufler.dev/visits/shamimcse1/shamimcse1)
 
 <center>
 <table>
