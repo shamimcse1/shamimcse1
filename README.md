@@ -42,6 +42,7 @@ I'm Md. Shamim Hossain an Android Developer and Content Creator on [Youtube](htt
 <img src= "https://img.shields.io/static/v1?label=Java&message=%20&color=success"> 
 <img src= "https://img.shields.io/static/v1?label=PHP&message=%20&color=success"> 
 <img src= "https://img.shields.io/static/v1?label=JavaScript&message=%20&color=success">
+<img src= "https://img.shields.io/badge/dart-%230175C2.svg?label=Dart&color=success">
 </div>
 <hr>
 
@@ -61,6 +62,7 @@ I'm Md. Shamim Hossain an Android Developer and Content Creator on [Youtube](htt
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 <br />
 
 
@@ -87,36 +89,7 @@ I'm Md. Shamim Hossain an Android Developer and Content Creator on [Youtube](htt
 
 
 
-<details>
-<summary>
-  More Stuff About Me
-</summary>
 
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Coder Camp Youtube Channel exists!
-
-#### What is Coder Camp?
-
-Coder Camp is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
-
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-Java         15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-CSS          1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-HTML         1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-C            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-C++          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
-
-
-
-
-
-</details>
 
 
 
