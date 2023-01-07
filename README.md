@@ -1,6 +1,6 @@
 ## Hi I'm Shamim <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height ="40" alt="hi">
 
-I'm Md. Shamim Hossain an Android Developer and Content Creator on [Youtube](https://www.youtube.com/channel/UC0dVoMiL_ZvE7QzqWwPKcfg). I Spend most of time coding outstanding projects or recording tutorials.
+I'm Md. Shamim Hossain an Android Developer and Content Creator on [Youtube](https://www.youtube.com/channel/UC0dVoMiL_ZvE7QzqWwPKcfg). I Spend most of time coding outstanding projects or learning latest techniques.
 
 :mailbox: Reach me out!
 
@@ -10,8 +10,8 @@ I'm Md. Shamim Hossain an Android Developer and Content Creator on [Youtube](htt
 
 - 🔭 I’m currently working on **Android Apps Development** (Native Platform);
 - :computer: Most used line of code `git commit -m "Initial Commit"`;
-- 🤔 I’m looking for help with Outstanding Video ideas;
-- 😄 Pronouns: Coder Camp, Shamim;
+- 🤔 I’m looking for help with Outstanding Projects ideas;
+- 😄 Pronouns: Coder-Camp, Shamim;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: mdshamimh529@gmail.com.
