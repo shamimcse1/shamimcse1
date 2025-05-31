@@ -8,7 +8,7 @@ I'm Md. Shamim Hossain an Android Developer and Content Creator on [Youtube](htt
  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on **Android Apps Development** (Cross Platform);
+- 🔭 I’m currently working on **Android Apps Development** (Cross Platform (Flutter));
 - :computer: Most used line of code `git commit -m "Initial Commit"`;
 - 🤔 I’m looking for help with Outstanding Projects ideas;
 - 😄 Pronouns: Coder-Camp, Shamim;
