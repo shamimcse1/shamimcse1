@@ -11,7 +11,6 @@ I'm Md. Shamim Hossain an Android Developer and Content Creator on [Youtube](htt
 - 🔭 I’m currently working on **Android Apps Development** (Cross Platform (Flutter));
 - :computer: Most used line of code `git commit -m "Initial Commit"`;
 - 🤔 I’m looking for help with Outstanding Projects ideas;
-- 😄 Pronouns: Coder-Camp, Shamim;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: mdshamimh529@gmail.com.
